@@ -9,7 +9,7 @@ const Call: React.FC = () => {
       <Text>Agendar Atendimento</Text>
       <ContainerTextPhone>
         <PhoneIcon src={PhoneIconImg} />
-        <LinkPhone href="tel:6195612864">(61) 9561-2864</LinkPhone>
+        <LinkPhone href="tel:61995612864">(61) 9.9561-2864</LinkPhone>
       </ContainerTextPhone>
     </Container>
   )

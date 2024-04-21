@@ -55,7 +55,7 @@ const FormRequestService: React.FC = () => {
 			<Input type="tel" name="phone" id="phone" placeholder="Telefone" onChange={emailHandle} />
 			<TextArea name="text" id="text" placeholder="Pedido" /> */}
 			{/* <Submit type="submit" value="Fazer pedido" /> */}
-			<Link href="https://wa.me/5555619561286?text=Ol%C3%A1%21+Quero+saber+mais+sobre+o+seu+servi%C3%A7o.">Fazer pedido</Link>
+			<Link href="https://wa.me/55556195612864?text=Ol%C3%A1%21+Quero+saber+mais+sobre+o+seu+servi%C3%A7o.">Fazer pedido</Link>
 		</Form>
 	)
 }
